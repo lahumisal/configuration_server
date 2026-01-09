@@ -1,3 +1,13 @@
 spring:
   application:
-    name: smart_school_management
+    name: configuration server
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/lahumisal/school_server_config.git
+
+  server:
+    port: 8888
+
