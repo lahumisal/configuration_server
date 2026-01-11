@@ -132,4 +132,4 @@ http://localhost:8888/smart_school/dev/main
 
 **Author:** Lahu Misal
 **GitHub:** [https://github.com/lahumisal](https://github.com/lahumisal)
-**Project:** Smart School Configuration Server
+**Project:** Smart School Configuration Server ( It must be required for smart school application ) 
